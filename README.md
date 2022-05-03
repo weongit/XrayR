@@ -14,7 +14,7 @@ XrayR已于2022年4月27日删库，此库留作备份使用
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/longyi8/XrayR/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/weongit/XrayR/master/install.sh)
 ```
 # Docker 安装
 
